@@ -20,6 +20,7 @@ Exploratory Data Analysis (EDA) :
 Graphs and visualizations are created to explore key patterns and relationships in the data.
 
 **Major Project 2 : Bulldozer Sale Price Prediction**
+- **Source**: `train.csv`, `test.csv`
 
 **Objective:** : Build a regression model that predicts the sale price of bulldozers and other heavy equipment at auction using structured data.
 
